@@ -1,6 +1,6 @@
 {
-  "word_max_len":20,
-  "char_max_len":100,
+  "word_max_len":50,
+  "char_max_len":110,
   "split":0.2,
   "word_embedding_file": "None",
   "char_embedding_file": "None",
@@ -8,5 +8,5 @@
   "char_embedding_dim":50,
   "corpus_id": "corpus/FIQA",
   "serialization_dir":"serialization_data/FIQA",
-  "language":"en"
+  "language":"zh"
 }
